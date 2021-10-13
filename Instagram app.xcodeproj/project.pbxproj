@@ -56,6 +56,12 @@
 		9AB773F427175728005019EA /* Instagram app */ = {
 			isa = PBXGroup;
 			children = (
+				9AB7740F2717575F005019EA /* Model */,
+				9AB7740E2717575D005019EA /* View */,
+				9AB7740D2717575C005019EA /* ViewModel */,
+				9AB7740B27175756005019EA /* Controller */,
+				9AB7740A27175755005019EA /* API */,
+				9AB7740927175744005019EA /* Utils */,
 				9AB773F527175728005019EA /* AppDelegate.swift */,
 				9AB773F727175728005019EA /* SceneDelegate.swift */,
 				9AB773F927175728005019EA /* ViewController.swift */,
@@ -65,6 +71,48 @@
 				9AB774032717572B005019EA /* Info.plist */,
 			);
 			path = "Instagram app";
+			sourceTree = "<group>";
+		};
+		9AB7740927175744005019EA /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		9AB7740A27175755005019EA /* API */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		9AB7740B27175756005019EA /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		9AB7740D2717575C005019EA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		9AB7740E2717575D005019EA /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9AB7740F2717575F005019EA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
